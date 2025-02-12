@@ -13,5 +13,5 @@ What drives me is the opportunity to learn, innovate, and contribute to projects
 **Backend Development:** Next.js, Node.js, Java, Spring Boot, API Development, OAuth <br/>
 **Database:** SQL, Postgres, Supabase, Prisma <br/>
 **Blockchain & Web3:** Ethereum, Smart Contracts, Solidity, EVM, Hardhat <br/>
-**Testing:** Jest, JUnit <br/>
+**Testing:** Jest, JUnit, Chai<br/>
 **DevOps & Tools:** Git, CI/CD, Vercel, Postman, SAP BTP, AWS <br/>
