@@ -1,17 +1,16 @@
 ## Hi there, I'm Gabriel 🚀
 
-My journey in technology began with a fascination for how things work behind the scenes. This curiosity evolved into a career where I thrive on delivering innovative, scalable, and reliable solutions. From crafting seamless integrations to building modern applications, I enjoy the process of transforming ideas into reality through code.
+My journey in technology started with a fascination for how things work behind the scenes, and this curiosity has grown into a career where I specialize in delivering innovative, scalable, and reliable solutions. From crafting seamless integrations to building modern applications, I enjoy transforming ideas into reality through code.
 
-With a strong foundation in data integration and enterprise platforms, I’ve honed my ability to design and implement custom solutions tailored to client needs. My experience in navigating complex challenges has enabled me to deliver meaningful results in collaborative, Agile-driven environments.
+I’m constantly exploring the latest development practices and diving deeper into tools and frameworks that empower me to build robust, user-friendly applications. My passion for emerging technologies, particularly Web3 and AI, drives me to discover innovative ways to redefine how we interact with systems and data.
 
-I’ve been diving deeper into modern development practices, exploring tools and frameworks that empower me to build robust and user-friendly applications. At the same time, I’m passionate about exploring emerging technologies that have the potential to redefine how we interact with systems and data. This intersection of cutting-edge tools and transformative trends excites me as I envision a future where innovation drives meaningful change.
-
-What drives me is the opportunity to learn, innovate, and contribute to projects that make a difference. I thrive in collaborative teams that value curiosity and growth, and I’m eager to bring my blend of technical expertise and creative problem-solving to build the next generation of technology solutions.
+What excites me is the opportunity to learn, innovate, and contribute to projects that make a difference. I thrive in collaborative teams that value curiosity, growth, and creative problem-solving, and I’m eager to bring my technical expertise and vision to build the next generation of technology solutions.
 
 ### Skills 💼
 **Frontend Development:** Typescript, Javascript, React, Next.js, Tailwind <br/>
-**Backend Development:** Next.js, Node.js, Java, Spring Boot, API Development, OAuth <br/>
+**Backend Development:** Next.js, Node.js, Java, Spring Framework, API Development, OAuth <br/>
 **Database:** SQL, Postgres, Supabase, Prisma, SAP Hana <br/>
 **Blockchain & Web3:** Ethereum, Smart Contracts, Solidity, EVM, Hardhat, Ethers.js, OpenZeppelin <br/>
 **Testing:** Jest, JUnit, Chai<br/>
 **DevOps & Tools:** Git, CI/CD, Vercel, Postman, SAP BTP, CPI, AWS <br/>
+**AI & ML:** OpenAI API, LangChain, AI-driven Web3 solutions <br/>
