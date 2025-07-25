@@ -7,7 +7,7 @@ I’m constantly exploring the latest development practices and diving deeper in
 What excites me is the opportunity to learn, innovate, and contribute to projects that make a difference. I thrive in collaborative teams that value curiosity, growth, and creative problem-solving, and I’m eager to bring my technical expertise and vision to build the next generation of technology solutions.
 
 ### Skills 💼
-**Frontend Development:** Typescript, Javascript, React, Next.js, Tailwind <br/>
+**Frontend Development:** Typescript, Javascript, React, Next.js, Tailwind, Shadcn <br/>
 **Backend Development:** Next.js, Node.js, Java, Spring Framework, API Development, OAuth <br/>
 **Database:** SQL, Postgres, Supabase, Prisma, SAP Hana <br/>
 **Blockchain & Web3:** Ethereum, Smart Contracts, Solidity, EVM, Hardhat, Ethers.js, OpenZeppelin <br/>
