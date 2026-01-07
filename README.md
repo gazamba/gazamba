@@ -1,10 +1,20 @@
 ## Hi there, I'm Gabriel 🚀
 
-My journey in technology started with a fascination for how things work behind the scenes, and this curiosity has grown into a career where I specialize in delivering innovative, scalable, and reliable solutions. From crafting seamless integrations to building modern applications, I enjoy transforming ideas into reality through code.
+Full Stack Engineer with 7+ years of experience building scalable, user-focused web applications across startups and enterprise environments. I specialize in Next.js, TypeScript, React, and Node.js, delivering high-performance systems that align technical execution with real business impact.
 
-I’m constantly exploring the latest development practices and diving deeper into tools and frameworks that empower me to build robust, user-friendly applications. My passion for emerging technologies, particularly Web3 and AI, drives me to discover innovative ways to redefine how we interact with systems and data.
+Most recently, I worked on an AI-driven developer productivity platform (YC-backed), where I built autonomous AI agents using GPT models to monitor production errors, generate code fixes, and automatically create pull requests. My work involved integrating complex ecosystems such as GitHub, Sentry, Linear, Slack, and Vercel, designing secure OAuth flows, and implementing event-driven, background workflows for real-time automation and notifications.
 
-What excites me is the opportunity to learn, innovate, and contribute to projects that make a difference. I thrive in collaborative teams that value curiosity, growth, and creative problem-solving, and I’m eager to bring my technical expertise and vision to build the next generation of technology solutions.
+I’m deeply focused on AI-native product development, combining modern web architectures with LLMs, agent-based workflows, and observability to build intelligent, self-improving systems. Alongside this, I continue to explore the intersection of AI and Web3, leveraging Ethereum and smart contracts to create decentralized, intelligent applications.
+
+I thrive in cross-functional teams, value clean architecture and strong typing, and enjoy building products where AI meaningfully enhances developer and user experience.
+
+What I build & ship:
+
+• Autonomous AI agents that monitor production issues, generate code fixes, and create pull requests
+• AI-driven developer tooling integrating GitHub, Sentry, Linear, Slack, and Vercel
+• Event-driven systems with background workflows, webhooks, and real-time notifications
+• Secure OAuth-based integrations with encrypted token storage and automatic refresh
+• Scalable full-stack applications using Next.js, TypeScript, and modern cloud platforms
 
 ### Skills 💼
 **Frontend Development:** Typescript, Javascript, React, Next.js, Tailwind, Shadcn <br/>
