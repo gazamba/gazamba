@@ -1,26 +1,35 @@
 ## Hi there, I'm Gabriel 🚀
 
-Full Stack Engineer with 7+ years of experience building scalable, user-focused web applications across startups and enterprise environments. I specialize in Next.js, TypeScript, React, and Node.js, delivering high-performance systems that align technical execution with real business impact.
+**Senior Full-Stack AI Engineer** building autonomous agents and AI-native SaaS in production. Seven years across startups and enterprise — most recently at a YC-backed AI developer productivity platform, now independent and building [Workasso](https://workasso.com).
 
-Most recently, I worked on an AI-driven developer productivity platform (YC-backed), where I built autonomous AI agents using GPT models to monitor production errors, generate code fixes, and automatically create pull requests. My work involved integrating complex ecosystems such as GitHub, Sentry, Linear, Slack, and Vercel, designing secure OAuth flows, and implementing event-driven, background workflows for real-time automation and notifications.
+### 🤖 What I'm building
 
-I’m deeply focused on AI-native product development, combining modern web architectures with LLMs, agent-based workflows, and observability to build intelligent, self-improving systems. Alongside this, I continue to explore the intersection of AI and Web3, leveraging Ethereum and smart contracts to create decentralized, intelligent applications.
+At the YC startup, I was a core engineer on autonomous AI agents powered by GPT models that detect production errors, generate code fixes, and open pull requests under human approval — with deep integrations into GitHub, Sentry, Linear, Slack, and Vercel.
 
-I thrive in cross-functional teams, value clean architecture and strong typing, and enjoy building products where AI meaningfully enhances developer and user experience.
+I'm now solo on **Workasso** — AI employees that handle customer support, production alerts, and inbound sales for small teams. Owner across product, full stack, integrations, and go-to-market.
 
-What I build & ship:
+### 🔧 What I ship
 
-• Autonomous AI agents that monitor production issues, generate code fixes, and create pull requests
-• AI-driven developer tooling integrating GitHub, Sentry, Linear, Slack, and Vercel
-• Event-driven systems with background workflows, webhooks, and real-time notifications
-• Secure OAuth-based integrations with encrypted token storage and automatic refresh
-• Scalable full-stack applications using Next.js, TypeScript, and modern cloud platforms
+- **Autonomous AI agents** for production monitoring, code generation, and automated PRs
+- **AI-native developer tooling** with GitHub, Sentry, Linear, Slack, and Vercel integrations
+- **Event-driven systems** with webhooks, background jobs (Inngest), and real-time notifications
+- **Secure OAuth integrations** with encrypted token storage and automatic refresh
+- **Multi-tenant SaaS** on Next.js with authentication, billing, analytics, and LLM cost tracking
+- **RAG pipelines** with pattern-detection layers that cut LLM costs on repeat queries by an order of magnitude
 
-### Skills 💼
-**Frontend Development:** Typescript, Javascript, React, Next.js, Tailwind, Shadcn <br/>
-**Backend Development:** Next.js, Node.js, Java, Spring Framework, API Development, OAuth <br/>
-**Database:** SQL, Postgres, Supabase, Prisma, SAP Hana <br/>
-**Blockchain & Web3:** Ethereum, Smart Contracts, Solidity, EVM, Hardhat, Ethers.js, OpenZeppelin <br/>
-**Testing:** Jest, JUnit, Chai<br/>
-**DevOps & Tools:** Git, CI/CD, Vercel, Postman, SAP BTP, CPI, AWS <br/>
-**AI & ML:** OpenAI API, LangChain, AI-driven Web3 solutions <br/>
+### 💼 Stack
+
+**Languages:** TypeScript, JavaScript, Python, Java, Solidity  
+**Frontend:** Next.js, React, Tailwind, shadcn/ui  
+**Backend:** Node.js, Spring, REST APIs, OAuth, Webhooks  
+**Data:** Postgres, Supabase, Prisma, Redis, Pinecone, SAP HANA  
+**AI:** OpenAI, Claude, LangChain, RAG, Agent orchestration  
+**Infra:** Vercel, AWS, Cloudflare, Docker, Turborepo, Inngest  
+**Observability:** Sentry, PostHog  
+**Web3:** Ethereum, EVM, Hardhat, Ethers.js, OpenZeppelin  
+**Testing:** Jest, JUnit, Chai  
+
+### 📫 Get in touch
+
+- 🌐 [workasso.com](https://workasso.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
