@@ -26,7 +26,6 @@ I'm now solo on **Workasso** — AI employees that handle customer support, prod
 **AI:** OpenAI, Claude, LangChain, RAG, Agent orchestration  
 **Infra:** Vercel, AWS, Cloudflare, Docker, Turborepo, Inngest  
 **Observability:** Sentry, PostHog  
-**Web3:** Ethereum, EVM, Hardhat, Ethers.js, OpenZeppelin  
 **Testing:** Jest, JUnit, Chai  
 
 ### 📫 Get in touch
