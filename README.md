@@ -1,34 +1,39 @@
 ## Hi there, I'm Gabriel 🚀
 
-**Senior Full-Stack AI Engineer** building autonomous agents and AI-native SaaS in production. Seven years across startups and enterprise — most recently at a YC-backed AI developer productivity platform, now independent and building [Workasso](https://workasso.com).
+**Senior Full-Stack AI Engineer** with 8+ years shipping production software across startups and enterprise. Most recently at **StarSling (YC X25)**, and before that nearly 7 years at **SAP**, growing from integration team lead to senior full-stack engineer.
 
-### 🤖 What I'm building
+### 🤖 What I've been building
 
-At the YC startup, I was a core engineer on autonomous AI agents powered by GPT models that detect production errors, generate code fixes, and open pull requests under human approval — with deep integrations into GitHub, Sentry, Linear, Slack, and Vercel.
+At YC (X25), I built autonomous AI agents that monitor production errors, generate code fixes, and open pull requests under human approval, with deep integrations into GitHub, Sentry, Linear, Slack, and Vercel.
 
-I'm now solo on **Workasso** — AI employees that handle customer support, production alerts, and inbound sales for small teams. Owner across product, full stack, integrations, and go-to-market.
+Outside of work, I build [Workasso](https://workasso.com/): AI employees for small businesses that handle customer support, inbound sales, and production alerts across email and WhatsApp. It keeps me sharp on shipping AI end to end.
 
 ### 🔧 What I ship
 
-- **Autonomous AI agents** for production monitoring, code generation, and automated PRs
-- **AI-native developer tooling** with GitHub, Sentry, Linear, Slack, and Vercel integrations
-- **Event-driven systems** with webhooks, background jobs (Inngest), and real-time notifications
+- **AI agents & LLM integrations** (Anthropic Claude, OpenAI, MCP) with human-in-the-loop approval flows
+- **Model routing and RAG pipelines** that cut LLM costs on repeat queries
+- **Layered AI safety**: prompt-injection detection, outbound moderation, credential redaction
+- **Event-driven systems**: webhooks, background jobs (Inngest), real-time notifications
 - **Secure OAuth integrations** with encrypted token storage and automatic refresh
-- **Multi-tenant SaaS** on Next.js with authentication, billing, analytics, and LLM cost tracking
-- **RAG pipelines** with pattern-detection layers that cut LLM costs on repeat queries by an order of magnitude
+- **Enterprise integrations** (SAP Concur, NetSuite, SAP CPI) for AI that touches real business systems
+- **Multi-tenant SaaS** on Next.js with auth, billing, usage metering, and i18n
 
 ### 💼 Stack
 
-**Languages:** TypeScript, JavaScript, Python, Java, Solidity  
-**Frontend:** Next.js, React, Tailwind, shadcn/ui  
-**Backend:** Node.js, Spring, REST APIs, OAuth, Webhooks  
-**Data:** Postgres, Supabase, Prisma, Redis, Pinecone, SAP HANA  
-**AI:** OpenAI, Claude, LangChain, RAG, Agent orchestration  
-**Infra:** Vercel, AWS, Cloudflare, Docker, Turborepo, Inngest  
-**Observability:** Sentry, PostHog  
-**Testing:** Jest, JUnit, Chai  
+- **Languages:** TypeScript, JavaScript, Java, Python
+- **Frontend:** Next.js, React, Tailwind, shadcn/ui
+- **Backend:** Node.js, Spring Boot, REST APIs, OAuth, Webhooks
+- **Data:** Postgres, Supabase, Prisma, Redis, Pinecone
+- **AI:** Anthropic Claude, OpenAI, MCP, RAG, agent orchestration
+- **Dev tools:** Claude Code, Git, CI/CD, Turborepo, Docker
+- **Infra:** Vercel, AWS, Cloudflare, Inngest, Stripe
+- **Observability:** Sentry, PostHog
+- **Testing:** Jest, JUnit
 
 ### 📫 Get in touch
 
-- 🌐 [workasso.com](https://workasso.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+Open to full-time contract roles, remote, with flexible hours.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielazambuja/)
+- 📧 gabriel.azambuja13@outlook.com
+- 🌐 [workasso.com](https://workasso.com/)
